@@ -17,6 +17,8 @@ class Book {
         this.quote = ''
         this.numberOfComments = 0
         this.author = ''
+        this.press = ''
+        this.year = 0
     }
 }
 
@@ -34,6 +36,8 @@ const bookFromTable = (table) => {
 
     let info = e('.pl').text().split(' / ')
     book.author = info[0]
+    book.press = info[info.length - 3]
+    book.year = Number(info[info.length - 2].slice(0, 4))
     
     return book
 }

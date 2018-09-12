@@ -4,1749 +4,2249 @@
     "score": 8.9,
     "quote": "为你，千千万万遍",
     "numberOfComments": 335432,
-    "author": "[美] 卡勒德·胡赛尼"
+    "author": "[美] 卡勒德·胡赛尼",
+    "press": "上海人民出版社",
+    "year": 2006
   },
   {
     "name": "解忧杂货店",
     "score": 8.6,
     "quote": "一碗精心熬制的东野牌鸡汤，拒绝很难",
     "numberOfComments": 308993,
-    "author": "[日] 东野圭吾"
+    "author": "[日] 东野圭吾",
+    "press": "南海出版公司",
+    "year": 2014
   },
   {
     "name": "小王子",
     "score": 9,
     "quote": "献给长成了大人的孩子们",
     "numberOfComments": 259290,
-    "author": "[法] 圣埃克苏佩里"
+    "author": "[法] 圣埃克苏佩里",
+    "press": "人民文学出版社",
+    "year": 2003
   },
   {
     "name": "白夜行",
     "score": 9.1,
     "quote": "暗夜独行的残破灵魂，爱与恶本就难分难舍",
     "numberOfComments": 227294,
-    "author": "[日] 东野圭吾"
+    "author": "[日] 东野圭吾",
+    "press": "南海出版公司",
+    "year": 2008
   },
   {
     "name": "围城",
     "score": 8.9,
     "quote": "对于“人艰不拆”四个字最彻底的违抗",
     "numberOfComments": 208643,
-    "author": "钱锺书"
+    "author": "钱锺书",
+    "press": "人民文学出版社",
+    "year": 1991
   },
   {
     "name": "三体",
     "score": 8.8,
     "quote": "你我不过都是虫子",
     "numberOfComments": 183912,
-    "author": "刘慈欣"
+    "author": "刘慈欣",
+    "press": "重庆出版社",
+    "year": 2008
   },
   {
     "name": "挪威的森林",
     "score": 8,
     "quote": "村上之发轫，多少人的青春启蒙",
     "numberOfComments": 202166,
-    "author": "[日] 村上春树"
+    "author": "[日] 村上春树",
+    "press": "上海译文出版社",
+    "year": 2001
   },
   {
     "name": "嫌疑人X的献身",
     "score": 8.9,
     "quote": "数学好是一种极致的浪漫",
     "numberOfComments": 177964,
-    "author": "[日] 东野圭吾"
+    "author": "[日] 东野圭吾",
+    "press": "南海出版公司",
+    "year": 2008
   },
   {
     "name": "活着",
     "score": 9.1,
     "quote": "活着本身就是人生最大的意义",
     "numberOfComments": 159891,
-    "author": "余华"
+    "author": "余华",
+    "press": "南海出版公司",
+    "year": 1998
   },
   {
     "name": "红楼梦",
     "score": 9.6,
     "quote": "谁解其中味？",
     "numberOfComments": 138341,
-    "author": "[清] 曹雪芹 著"
+    "author": "[清] 曹雪芹 著",
+    "press": "人民文学出版社",
+    "year": 1996
   },
   {
     "name": "百年孤独",
     "score": 9.2,
     "quote": "尼采所谓的永劫复归，一场无始无终的梦魇",
     "numberOfComments": 142886,
-    "author": "[哥伦比亚] 加西亚·马尔克斯"
+    "author": "[哥伦比亚] 加西亚·马尔克斯",
+    "press": "南海出版公司",
+    "year": 2011
   },
   {
     "name": "看见",
     "score": 8.8,
     "quote": "在这里看见中国",
     "numberOfComments": 139009,
-    "author": "柴静"
+    "author": "柴静",
+    "press": "广西师范大学出版社",
+    "year": 2013
   },
   {
     "name": "不能承受的生命之轻",
     "score": 8.5,
     "quote": "朝向媚俗的一次伟大的进军",
     "numberOfComments": 144303,
-    "author": "[捷克] 米兰·昆德拉"
+    "author": "[捷克] 米兰·昆德拉",
+    "press": "上海译文出版社",
+    "year": 2003
   },
   {
     "name": "达·芬奇密码",
     "score": 8.2,
     "quote": "一切畅销的因素都有了",
     "numberOfComments": 135921,
-    "author": "[美] 丹·布朗"
+    "author": "[美] 丹·布朗",
+    "press": "上海人民出版社",
+    "year": 2004
   },
   {
     "name": "平凡的世界（全三部）",
     "score": 9,
     "quote": "中国当代城乡生活全景",
     "numberOfComments": 115395,
-    "author": "路遥"
+    "author": "路遥",
+    "press": "人民文学出版社",
+    "year": 2005
   },
   {
     "name": "三体Ⅱ",
     "score": 9.3,
     "quote": "无边的黑暗森林，比第一部更为恢弘壮丽",
     "numberOfComments": 108219,
-    "author": "刘慈欣"
+    "author": "刘慈欣",
+    "press": "重庆出版社",
+    "year": 2008
   },
   {
     "name": "三体Ⅲ",
     "score": 9.2,
     "quote": "终章，何去何从",
     "numberOfComments": 108404,
-    "author": "刘慈欣"
+    "author": "刘慈欣",
+    "press": "重庆出版社",
+    "year": 2010
   },
   {
     "name": "简爱（英文全本）",
     "score": 8.5,
     "quote": "灰姑娘在十九世纪",
     "numberOfComments": 115634,
-    "author": "[英] 夏洛蒂·勃朗特"
+    "author": "[英] 夏洛蒂·勃朗特",
+    "press": "世界图书出版公司",
+    "year": 2003
   },
   {
     "name": "哈利·波特与魔法石",
     "score": 9,
     "quote": "羽加迪姆勒维奥萨！",
     "numberOfComments": 94822,
-    "author": "[英] J. K. 罗琳"
+    "author": "[英] J. K. 罗琳",
+    "press": "人民文学出版社",
+    "year": 2000
   },
   {
     "name": "天才在左 疯子在右",
     "score": 8.2,
     "quote": "简称“疯癫与文明”",
     "numberOfComments": 105408,
-    "author": "高铭"
+    "author": "高铭",
+    "press": "武汉大学出版社",
+    "year": 2010
   },
   {
     "name": "我们仨",
     "score": 8.7,
     "quote": "平淡，坚忍，温情",
     "numberOfComments": 95982,
-    "author": "杨绛"
+    "author": "杨绛",
+    "press": "生活·读书·新知三联书店",
+    "year": 2003
   },
   {
     "name": "傲慢与偏见",
     "score": 8.8,
     "quote": "所有现代言情小说的母体",
     "numberOfComments": 93927,
-    "author": "[英] 奥斯丁"
+    "author": "[英] 奥斯丁",
+    "press": "人民文学出版社",
+    "year": 1993
   },
   {
     "name": "送你一颗子弹",
     "score": 8.6,
     "quote": "犀利又温柔，穿过胸口隐隐作痛",
     "numberOfComments": 95825,
-    "author": "刘瑜"
+    "author": "刘瑜",
+    "press": "上海三联书店",
+    "year": 2010
   },
   {
     "name": "飘",
     "score": 9.3,
     "quote": "革命时期的爱情，随风而逝",
     "numberOfComments": 86599,
-    "author": "[美国] 玛格丽特·米切尔"
+    "author": "[美国] 玛格丽特·米切尔",
+    "press": "译林出版社",
+    "year": 2000
   },
   {
     "name": "明朝那些事儿（壹）",
     "score": 8.7,
     "quote": "历史本就是一件件“事儿”拼成的",
     "numberOfComments": 91470,
-    "author": "当年明月"
+    "author": "当年明月",
+    "press": "中国友谊出版公司",
+    "year": 2006
   },
   {
     "name": "倾城之恋",
     "score": 8.5,
     "quote": "一段姻缘，需要一座城的倾覆来成全",
     "numberOfComments": 95316,
-    "author": "花城出版社"
+    "author": "花城出版社",
+    "press": "花城出版社",
+    "year": 1997
   },
   {
     "name": "目送",
     "score": 8.7,
     "quote": "不必追",
     "numberOfComments": 91876,
-    "author": "龙应台"
+    "author": "龙应台",
+    "press": "生活·读书·新知三联书店",
+    "year": 2009
   },
   {
     "name": "月亮和六便士",
     "score": 9,
     "quote": "有多少人会经历顿悟，就有更少的人甘愿自我放逐",
     "numberOfComments": 85160,
-    "author": "[英] 毛姆"
+    "author": "[英] 毛姆",
+    "press": "上海译文出版社",
+    "year": 2006
   },
   {
     "name": "情人",
     "score": 8.1,
     "quote": "我已经老了，你呢？",
     "numberOfComments": 92881,
-    "author": "[法] 玛格丽特·杜拉斯"
+    "author": "[法] 玛格丽特·杜拉斯",
+    "press": "上海译文出版社",
+    "year": 2005
   },
   {
     "name": "恶意",
     "score": 8.4,
     "quote": "无缘由的恨，冰冷彻骨",
     "numberOfComments": 85158,
-    "author": "[日] 东野圭吾"
+    "author": "[日] 东野圭吾",
+    "press": "南海出版公司",
+    "year": 2009
   },
   {
     "name": "霍乱时期的爱情",
     "score": 9,
     "quote": "义无反顾地直达爱情的核心",
     "numberOfComments": 79301,
-    "author": "[哥伦比亚] 加西亚·马尔克斯"
+    "author": "[哥伦比亚] 加西亚·马尔克斯",
+    "press": "南海出版公司",
+    "year": 2012
   },
   {
     "name": "哈利·波特与阿兹卡班的囚徒",
     "score": 8.9,
     "quote": "小天狼星布莱克",
     "numberOfComments": 78670,
-    "author": "[英] J. K. 罗琳"
+    "author": "[英] J. K. 罗琳",
+    "press": "人民文学出版社",
+    "year": 2000
   },
   {
     "name": "狼图腾",
     "score": 8.3,
     "quote": "我们都是 狼的传人？",
     "numberOfComments": 84445,
-    "author": "姜戎"
+    "author": "姜戎",
+    "press": "长江文艺出版社",
+    "year": 2004
   },
   {
     "name": "哈利·波特与火焰杯",
     "score": 9,
     "quote": "整个系列的分水岭，暗色渐浓",
     "numberOfComments": 76127,
-    "author": "[英] J. K. 罗琳"
+    "author": "[英] J. K. 罗琳",
+    "press": "人民文学出版社",
+    "year": 2001
   },
   {
     "name": "1Q84 BOOK 1",
     "score": 8.3,
     "quote": "村上的野望，欢迎来到1Q84年",
     "numberOfComments": 83300,
-    "author": "[日] 村上春树"
+    "author": "[日] 村上春树",
+    "press": "南海出版公司",
+    "year": 2010
   },
   {
     "name": "边城",
     "score": 8.6,
     "quote": "如水一般的忧愁与怅惘",
     "numberOfComments": 79978,
-    "author": "沈从文"
+    "author": "沈从文",
+    "press": "北岳文艺出版社",
+    "year": 2002
   },
   {
     "name": "哈利·波特与密室",
     "score": 8.9,
     "quote": "渐入佳境，魔法世界全貌初现",
     "numberOfComments": 76109,
-    "author": "[英] J. K. 罗琳"
+    "author": "[英] J. K. 罗琳",
+    "press": "人民文学出版社",
+    "year": 2000
   },
   {
     "name": "穆斯林的葬礼",
     "score": 8.2,
     "quote": "时代烙印鲜明的民族史诗",
     "numberOfComments": 79495,
-    "author": "霍达"
+    "author": "霍达",
+    "press": "北京十月文艺出版社",
+    "year": 1988
   },
   {
     "name": "许三观卖血记",
     "score": 8.7,
     "quote": "余华的悲凉，都在那一碗炒猪肝里了",
     "numberOfComments": 74008,
-    "author": "余华"
+    "author": "余华",
+    "press": "南海出版公司",
+    "year": 1998
   },
   {
     "name": "撒哈拉的故事",
     "score": 9,
     "quote": "关于漂泊的一切",
     "numberOfComments": 70934,
-    "author": "三毛"
+    "author": "三毛",
+    "press": "皇冠出版社",
+    "year": 1976
   },
   {
     "name": "万历十五年",
     "score": 8.9,
     "quote": "见微知著，历史观的颠覆",
     "numberOfComments": 71082,
-    "author": "[美] 黄仁宇"
+    "author": "[美] 黄仁宇",
+    "press": "生活·读书·新知三联书店",
+    "year": 1997
   },
   {
     "name": "莲花",
     "score": 8,
     "quote": "三个生命的交逢，灵魅清冷",
     "numberOfComments": 79563,
-    "author": "安妮宝贝"
+    "author": "安妮宝贝",
+    "press": "作家出版社",
+    "year": 2006
   },
   {
     "name": "向左走·向右走",
     "score": 8.4,
     "quote": "两条平行线相遇的可能",
     "numberOfComments": 73744,
-    "author": "幾米"
+    "author": "幾米",
+    "press": "生活·读书·新知三联书店",
+    "year": 2002
   },
   {
     "name": "哈利·波特与混血王子",
     "score": 8.8,
     "quote": "感情线纷乱的一部。再见邓布利多",
     "numberOfComments": 66714,
-    "author": "[英] J. K. 罗琳"
+    "author": "[英] J. K. 罗琳",
+    "press": "人民文学出版社",
+    "year": 2005
   },
   {
     "name": "盗墓笔记",
     "score": 8.3,
     "quote": "想象奇诡的大型RPG游戏",
     "numberOfComments": 70276,
-    "author": "南派三叔"
+    "author": "南派三叔",
+    "press": "中国友谊出版公司",
+    "year": 2007
   },
   {
     "name": "黄金时代",
     "score": 8.8,
     "quote": "能把性爱写得如此坦荡的，大概只有王二了",
     "numberOfComments": 65825,
-    "author": "王小波"
+    "author": "王小波",
+    "press": "花城出版社",
+    "year": 1999
   },
   {
     "name": "窗边的小豆豆",
     "score": 8.7,
     "quote": "真正懂孩子的教育经",
     "numberOfComments": 66161,
-    "author": "[日] 黑柳彻子 著"
+    "author": "[日] 黑柳彻子 著",
+    "press": "南海出版公司",
+    "year": 2003
   },
   {
     "name": "苏菲的世界",
     "score": 8.5,
     "quote": "最平易近人的哲学入门",
     "numberOfComments": 67696,
-    "author": "（挪威）乔斯坦·贾德"
+    "author": "（挪威）乔斯坦·贾德",
+    "press": "作家出版社",
+    "year": 1999
   },
   {
     "name": "天龙八部",
     "score": 9.1,
     "quote": "“有情皆孽，无人不冤”",
     "numberOfComments": 60944,
-    "author": "金庸"
+    "author": "金庸",
+    "press": "生活.读书.新知三联书店",
+    "year": 1994
   },
   {
     "name": "三国演义（全二册）",
     "score": 9.2,
     "quote": "是非成败转头空",
     "numberOfComments": 59857,
-    "author": "[明] 罗贯中"
+    "author": "[明] 罗贯中",
+    "press": "人民文学出版社",
+    "year": 1998
   },
   {
     "name": "哈利·波特与凤凰社",
     "score": 8.7,
     "quote": "暴脾气的哈利",
     "numberOfComments": 63132,
-    "author": "[英] J. K. 罗琳"
+    "author": "[英] J. K. 罗琳",
+    "press": "人民文学出版社",
+    "year": 2003
   },
   {
     "name": "悟空传",
     "score": 8.4,
     "quote": "猴子还是那个猴子，世界早已不是原来的世界",
     "numberOfComments": 66291,
-    "author": "今何在"
+    "author": "今何在",
+    "press": "光明日报出版社",
+    "year": 2001
   },
   {
     "name": "牧羊少年奇幻之旅",
     "score": 8.6,
     "quote": "你自己就是最大的宝藏",
     "numberOfComments": 63623,
-    "author": "[巴西]保罗·柯艾略"
+    "author": "[巴西]保罗·柯艾略",
+    "press": "南海出版公司",
+    "year": 2009
   },
   {
     "name": "哈利·波特与死亡圣器",
     "score": 8.9,
     "quote": "",
     "numberOfComments": 59612,
-    "author": "[英] J. K. 罗琳"
+    "author": "[英] J. K. 罗琳",
+    "press": "人民文学出版社",
+    "year": 2007
   },
   {
     "name": "海边的卡夫卡",
     "score": 8.1,
     "quote": "背负诅咒的少年，平行世界中的奥德赛",
     "numberOfComments": 65823,
-    "author": "[日] 村上春树"
+    "author": "[日] 村上春树",
+    "press": "上海译文出版社",
+    "year": 2003
   },
   {
     "name": "灿烂千阳",
     "score": 8.8,
     "quote": "唯有希望与爱可以驱散阴霾",
     "numberOfComments": 59239,
-    "author": "[美] 卡勒德·胡赛尼"
+    "author": "[美] 卡勒德·胡赛尼",
+    "press": "上海人民出版社",
+    "year": 2007
   },
   {
     "name": "呼啸山庄",
     "score": 8.4,
     "quote": "近乎暴虐的爱与恨，中文译名后无来者",
     "numberOfComments": 62326,
-    "author": "（英）勃朗特"
+    "author": "（英）勃朗特",
+    "press": "人民文学出版社",
+    "year": 1999
   },
   {
     "name": "兄弟（上）",
     "score": 8.3,
     "quote": "历史苦难中的个人灾变",
     "numberOfComments": 61751,
-    "author": "余华"
+    "author": "余华",
+    "press": "上海文艺出版社",
+    "year": 2005
   },
   {
     "name": "亲爱的安德烈",
     "score": 8.7,
     "quote": "龙应台母子对话，两代人的思想碰撞",
     "numberOfComments": 59606,
-    "author": "龙应台"
+    "author": "龙应台",
+    "press": "人民文学出版社",
+    "year": 2008
   },
   {
     "name": "老人与海",
     "score": 8.3,
     "quote": "正是悲壮赋予生活以意义",
     "numberOfComments": 61603,
-    "author": "海明威"
+    "author": "海明威",
+    "press": "上海译文出版社",
+    "year": 1999
   },
   {
     "name": "少有人走的路",
     "score": 8.4,
     "quote": "成熟的心智通向更完善的自我",
     "numberOfComments": 60488,
-    "author": "[美] M·斯科特·派克"
+    "author": "[美] M·斯科特·派克",
+    "press": "吉林文史出版社",
+    "year": 2007
   },
   {
     "name": "基督山伯爵",
     "score": 9,
     "quote": "完美的复仇，金庸用法语写作应该就是这样",
     "numberOfComments": 55859,
-    "author": "大仲马"
+    "author": "大仲马",
+    "press": "上海译文出版社",
+    "year": 1991
   },
   {
     "name": "人类简史",
     "score": 9.1,
     "quote": "跟着人类一同走过十万年",
     "numberOfComments": 54220,
-    "author": "[以色列]尤瓦尔·赫拉利"
+    "author": "[以色列]尤瓦尔·赫拉利",
+    "press": "中信出版社",
+    "year": 2014
   },
   {
     "name": "1984",
     "score": 9.3,
     "quote": "栗树荫下，我出卖你，你出卖我",
     "numberOfComments": 52476,
-    "author": "[英] 乔治·奥威尔"
+    "author": "[英] 乔治·奥威尔",
+    "press": "北京十月文艺出版社",
+    "year": 2010
   },
   {
     "name": "笑傲江湖（全四册）",
     "score": 9,
     "quote": "武侠的壳，政治斗争的核",
     "numberOfComments": 54157,
-    "author": "金庸"
+    "author": "金庸",
+    "press": "生活·读书·新知三联书店",
+    "year": 1994
   },
   {
     "name": "民主的细节",
     "score": 8.6,
     "quote": "公民养成手册",
     "numberOfComments": 56827,
-    "author": "刘瑜"
+    "author": "刘瑜",
+    "press": "上海三联书店",
+    "year": 2009
   },
   {
     "name": "福尔摩斯探案全集（上中下）",
     "score": 9.2,
     "quote": "侦探小说鼻祖",
     "numberOfComments": 51549,
-    "author": "[英] 阿·柯南道尔"
+    "author": "[英] 阿·柯南道尔",
+    "press": "群众出版社",
+    "year": 1981
   },
   {
     "name": "人间失格",
     "score": 8.3,
     "quote": "令人无从怜悯的绝望",
     "numberOfComments": 58425,
-    "author": "太宰治"
+    "author": "太宰治",
+    "press": "吉林出版集团有限责任公司",
+    "year": 2009
   },
   {
     "name": "无声告白",
     "score": 8.2,
     "quote": "莉迪亚死了，可他们还不知道",
     "numberOfComments": 57933,
-    "author": "[美] 伍绮诗"
+    "author": "[美] 伍绮诗",
+    "press": "江苏凤凰文艺出版社",
+    "year": 2015
   },
   {
     "name": "遇见未知的自己",
     "score": 8.1,
     "quote": "都市灵修速成",
     "numberOfComments": 57200,
-    "author": "张德芬"
+    "author": "张德芬",
+    "press": "华夏出版社",
+    "year": 2008
   },
   {
     "name": "情书",
     "score": 8.6,
     "quote": "一场误会中的两段爱情，东方式的含蓄隐忍",
     "numberOfComments": 51853,
-    "author": "[日] 岩井俊二"
+    "author": "[日] 岩井俊二",
+    "press": "天津人民出版社",
+    "year": 2004
   },
   {
     "name": "茶花女",
     "score": 8.2,
     "quote": "妓女应当拥有爱情吗？",
     "numberOfComments": 54913,
-    "author": "小仲马"
+    "author": "小仲马",
+    "press": "外国文学出版社",
+    "year": 1997
   },
   {
     "name": "白鹿原",
     "score": 8.6,
     "quote": "中国乡村史诗",
     "numberOfComments": 50156,
-    "author": "陈忠实"
+    "author": "陈忠实",
+    "press": "人民文学出版社",
+    "year": 1997
   },
   {
     "name": "一个陌生女人的来信",
     "score": 8.7,
     "quote": "暗恋的极致",
     "numberOfComments": 50763,
-    "author": "[奥] 斯台芬·茨威格"
+    "author": "[奥] 斯台芬·茨威格",
+    "press": "上海译文出版社",
+    "year": 2007
   },
   {
     "name": "神雕侠侣",
     "score": 8.8,
     "quote": "至情至性，情大于武",
     "numberOfComments": 49030,
-    "author": "金庸"
+    "author": "金庸",
+    "press": "生活·读书·新知三联书店",
+    "year": 1994
   },
   {
     "name": "沉默的大多数",
     "score": 9.1,
     "quote": "沉默是沉默者的通行证",
     "numberOfComments": 47818,
-    "author": "王小波"
+    "author": "王小波",
+    "press": "中国青年出版社",
+    "year": 1997
   },
   {
     "name": "当我谈跑步时我谈些什么",
     "score": 8.1,
     "quote": "村上同志告诉我们，身体是革命的本钱",
     "numberOfComments": 50458,
-    "author": "[日] 村上春树"
+    "author": "[日] 村上春树",
+    "press": "南海出版公司",
+    "year": 2009
   },
   {
     "name": "东方快车谋杀案",
     "score": 9,
     "quote": "谋杀诡计惊人，波洛的抉择耐人寻味",
     "numberOfComments": 44315,
-    "author": "[英] 阿加莎·克里斯蒂"
+    "author": "[英] 阿加莎·克里斯蒂",
+    "press": "人民文学出版社",
+    "year": 2006
   },
   {
     "name": "这些人，那些事",
     "score": 8.8,
     "quote": "平淡叙述下的惊心动魄",
     "numberOfComments": 45419,
-    "author": "吴念真"
+    "author": "吴念真",
+    "press": "译林出版社",
+    "year": 2011
   },
   {
     "name": "肖申克的救赎",
     "score": 9.1,
     "quote": "希望让人自由，电影实在太有名",
     "numberOfComments": 43194,
-    "author": "[美] 斯蒂芬·金"
+    "author": "[美] 斯蒂芬·金",
+    "press": "人民文学出版社",
+    "year": 2006
   },
   {
     "name": "鲁滨逊漂流记",
     "score": 8,
     "quote": "最早的荒野求生",
     "numberOfComments": 49819,
-    "author": "[英] 笛福"
+    "author": "[英] 笛福",
+    "press": "广西民族出版社",
+    "year": 2002
   },
   {
     "name": "这些都是你给我的爱",
     "score": 8.4,
     "quote": "只言片语的温暖",
     "numberOfComments": 45906,
-    "author": "文：安东尼"
+    "author": "文：安东尼",
+    "press": "长江文艺出版社",
+    "year": 2010
   },
   {
     "name": "局外人",
     "score": 9,
     "quote": "人生在世，永远也不该演戏作假",
     "numberOfComments": 43250,
-    "author": "[法] 阿尔贝·加缪"
+    "author": "[法] 阿尔贝·加缪",
+    "press": "上海译文出版社",
+    "year": 2010
   },
   {
     "name": "巴黎圣母院",
     "score": 8.3,
     "quote": "潜藏于残缺下的美与崇高",
     "numberOfComments": 46008,
-    "author": "[法]雨果"
+    "author": "[法]雨果",
+    "press": "人民文学出版社",
+    "year": 1982
   },
   {
     "name": "羊脂球",
     "score": 8.1,
     "quote": "资产阶级的道貌岸然",
     "numberOfComments": 47212,
-    "author": "（法）莫泊桑"
+    "author": "（法）莫泊桑",
+    "press": "北京燕山出版社",
+    "year": 2007
   },
   {
     "name": "喜宝",
     "score": 8,
     "quote": "爱情才是终极的奢侈品",
     "numberOfComments": 47240,
-    "author": "亦舒"
+    "author": "亦舒",
+    "press": "新世界出版社",
+    "year": 2007
   },
   {
     "name": "陪安东尼度过漫长岁月",
     "score": 8.3,
     "quote": "真正的片段式写作",
     "numberOfComments": 44298,
-    "author": "安东尼"
+    "author": "安东尼",
+    "press": "长江文艺出版社",
+    "year": 2008
   },
   {
     "name": "呐喊",
     "score": 8.8,
     "quote": "新文学的第一声呐喊",
     "numberOfComments": 41258,
-    "author": "鲁迅"
+    "author": "鲁迅",
+    "press": "人民文学出版社",
+    "year": 1973
   },
   {
     "name": "无人生还",
     "score": 8.9,
     "quote": "童谣杀人案",
     "numberOfComments": 40914,
-    "author": "[英] 阿加莎・克里斯蒂"
+    "author": "[英] 阿加莎・克里斯蒂",
+    "press": "人民文学出版社",
+    "year": 2008
   },
   {
     "name": "红玫瑰与白玫瑰",
     "score": 8.4,
     "quote": "蚊子血还是饭黏子？",
     "numberOfComments": 43715,
-    "author": "张爱玲"
+    "author": "张爱玲",
+    "press": "花城出版社",
+    "year": 1996
   },
   {
     "name": "巨人的陨落",
     "score": 8.9,
     "quote": "五个家族，一场战争",
     "numberOfComments": 40177,
-    "author": "[英] 肯·福莱特"
+    "author": "[英] 肯·福莱特",
+    "press": "江苏凤凰文艺出版社",
+    "year": 2016
   },
   {
     "name": "爱你就像爱生命",
     "score": 8.8,
     "quote": "王小波与李银河的两地书",
     "numberOfComments": 41212,
-    "author": "王小波"
+    "author": "王小波",
+    "press": "上海锦绣文章出版社",
+    "year": 2008
   },
   {
     "name": "华胥引（全二册）",
     "score": 8.4,
     "quote": "现实不如梦中的圆满",
     "numberOfComments": 42367,
-    "author": "唐七公子"
+    "author": "唐七公子",
+    "press": "现代出版社",
+    "year": 2011
   },
   {
     "name": "了不起的盖茨比",
     "score": 8.3,
     "quote": "梦，就像黛西家的那一缕绿光",
     "numberOfComments": 43146,
-    "author": "菲茨杰拉德"
+    "author": "菲茨杰拉德",
+    "press": "人民文学出版社",
+    "year": 2004
   },
   {
     "name": "乌合之众",
     "score": 8.3,
     "quote": "群氓心理剖析",
     "numberOfComments": 43294,
-    "author": "（法）勒庞"
+    "author": "（法）勒庞",
+    "press": "中央编译出版社",
+    "year": 2011
   },
   {
     "name": "鬼吹灯之精绝古城",
     "score": 8.1,
     "quote": "盗墓祖师名不虚传",
     "numberOfComments": 42924,
-    "author": "天下霸唱"
+    "author": "天下霸唱",
+    "press": "安徽文艺出版社",
+    "year": 2006
   },
   {
     "name": "动物农场",
     "score": 9.2,
     "quote": "太阳底下并无新事",
     "numberOfComments": 37902,
-    "author": "[英] 乔治·奥威尔"
+    "author": "[英] 乔治·奥威尔",
+    "press": "上海译文出版社",
+    "year": 2007
   },
   {
     "name": "安徒生童话故事集",
     "score": 9.2,
     "quote": "远不是童话那么简单",
     "numberOfComments": 37857,
-    "author": "（丹麦）安徒生"
+    "author": "（丹麦）安徒生",
+    "press": "人民文学出版社",
+    "year": 1997
   },
   {
     "name": "半生缘",
     "score": 8.6,
     "quote": "世钧，我们回不去了",
     "numberOfComments": 39975,
-    "author": "张爱玲"
+    "author": "张爱玲",
+    "press": "北京十月文艺出版社",
+    "year": 2006
   },
   {
     "name": "地下铁",
     "score": 8.3,
     "quote": "黑暗世界中的点滴亮光",
     "numberOfComments": 40475,
-    "author": "幾米"
+    "author": "幾米",
+    "press": "辽宁教育出版社",
+    "year": 2002
   },
   {
     "name": "骆驼祥子",
     "score": 8.3,
     "quote": "如骆驼喘息般深刻的绝望",
     "numberOfComments": 39471,
-    "author": "老舍"
+    "author": "老舍",
+    "press": "人民文学出版社",
+    "year": 2000
   },
   {
     "name": "射雕英雄传（全四册）",
     "score": 8.9,
     "quote": "侠之大者，为国为民",
     "numberOfComments": 35322,
-    "author": "金庸"
+    "author": "金庸",
+    "press": "生活·读书·新知三联书店",
+    "year": 1999
   },
   {
     "name": "月亮忘記了",
     "score": 8.6,
     "quote": "月明星稀的晚上，看不见的，看见了",
     "numberOfComments": 36495,
-    "author": "幾米"
+    "author": "幾米",
+    "press": "格林",
+    "year": 2000
   },
   {
     "name": "此间的少年",
     "score": 8.4,
     "quote": "象牙塔里的金庸群侠",
     "numberOfComments": 37048,
-    "author": "江南"
+    "author": "江南",
+    "press": "华文出版社",
+    "year": 2004
   },
   {
     "name": "如何阅读一本书",
     "score": 8.4,
     "quote": "读书的方法论",
     "numberOfComments": 36808,
-    "author": "[美] 莫提默·J. 艾德勒"
+    "author": "[美] 莫提默·J. 艾德勒",
+    "press": "商务印书馆",
+    "year": 2004
   },
   {
     "name": "孤独六讲",
     "score": 8.1,
     "quote": "作为一种美学的孤独",
     "numberOfComments": 38418,
-    "author": "蒋勋"
+    "author": "蒋勋",
+    "press": "广西师范大学出版社",
+    "year": 2009
   },
   {
     "name": "一個人住第5年",
     "score": 8.4,
     "quote": "独居生活之乐",
     "numberOfComments": 35774,
-    "author": "高木直子"
+    "author": "高木直子",
+    "press": "大田",
+    "year": 2004
   },
   {
     "name": "步步惊心",
     "score": 8.1,
     "quote": "现世太苦，不如穿越回去从头来过",
     "numberOfComments": 36658,
-    "author": "桐华"
+    "author": "桐华",
+    "press": "民族出版社",
+    "year": 2006
   },
   {
     "name": "一个人的朝圣",
     "score": 8.1,
     "quote": "关于爱和信念的旅行",
     "numberOfComments": 36754,
-    "author": "【英】蕾秋·乔伊斯"
+    "author": "【英】蕾秋·乔伊斯",
+    "press": "北京联合出版公司",
+    "year": 2013
   },
   {
     "name": "常识",
     "score": 8.1,
     "quote": "献给这个常识稀缺的时代",
     "numberOfComments": 36624,
-    "author": "梁文道"
+    "author": "梁文道",
+    "press": "广西师范大学出版社",
+    "year": 2009
   },
   {
     "name": "阿Q正传",
     "score": 8.7,
     "quote": "哀其不幸，怒其不争",
     "numberOfComments": 33737,
-    "author": "鲁迅"
+    "author": "鲁迅",
+    "press": "上海书店出版社",
+    "year": 2003
   },
   {
     "name": "寻路中国",
     "score": 9,
     "quote": "中国在路上，非虚构写作所能达到的高度",
     "numberOfComments": 32384,
-    "author": "[美] 彼得·海斯勒"
+    "author": "[美] 彼得·海斯勒",
+    "press": "上海译文出版社",
+    "year": 2011
   },
   {
     "name": "时间旅行者的妻子",
     "score": 8.1,
     "quote": "在时间的缝隙中穿行，然后相遇",
     "numberOfComments": 36231,
-    "author": "[美] 奥德丽·尼芬格"
+    "author": "[美] 奥德丽·尼芬格",
+    "press": "人民文学出版社",
+    "year": 2007
   },
   {
     "name": "荆棘鸟",
     "score": 8.6,
     "quote": "澳洲乱世情",
     "numberOfComments": 33373,
-    "author": "[澳] 考琳·麦卡洛"
+    "author": "[澳] 考琳·麦卡洛",
+    "press": "译林出版社",
+    "year": 1998
   },
   {
     "name": "刀锋",
     "score": 9,
     "quote": "一把刀的锋刃不容易越过；因此智者说得救之道是困难的",
     "numberOfComments": 31682,
-    "author": "[英]毛姆"
+    "author": "[英]毛姆",
+    "press": "上海译文出版社",
+    "year": 2007
   },
   {
     "name": "哭泣的骆驼",
     "score": 8.9,
     "quote": "沙漠中寻常的生与死",
     "numberOfComments": 31638,
-    "author": "三毛"
+    "author": "三毛",
+    "press": "哈尔滨出版社",
+    "year": 2003
   },
   {
     "name": "孩子你慢慢来",
     "score": 8.8,
     "quote": "我们现在怎样做母亲",
     "numberOfComments": 32230,
-    "author": "龙应台"
+    "author": "龙应台",
+    "press": "生活·读书·新知三联书店",
+    "year": 2009
   },
   {
     "name": "一只特立独行的猪",
     "score": 8.8,
     "quote": "生活就是个缓慢受锤的过程，至少还可以特立独行",
     "numberOfComments": 32171,
-    "author": "王小波"
+    "author": "王小波",
+    "press": "北方文艺出版社",
+    "year": 2006
   },
   {
     "name": "失恋33天",
     "score": 8.1,
     "quote": "失恋是一种病，痊愈之后百毒不侵",
     "numberOfComments": 34590,
-    "author": "鲍鲸鲸"
+    "author": "鲍鲸鲸",
+    "press": "中信出版社",
+    "year": 2010
   },
   {
     "name": "你好，旧时光（上 下）",
     "score": 8.8,
     "quote": "原作名切题",
     "numberOfComments": 30981,
-    "author": "八月长安"
+    "author": "八月长安",
+    "press": "新世界出版社",
+    "year": 2009
   },
   {
     "name": "梦里花落知多少",
     "score": 8.9,
     "quote": "哀而不伤",
     "numberOfComments": 31089,
-    "author": "三毛"
+    "author": "三毛",
+    "press": "北京十月文艺出版社",
+    "year": 2007
   },
   {
     "name": "格林童话全集",
     "score": 8.9,
     "quote": "许多隐晦",
     "numberOfComments": 30583,
-    "author": "格林兄弟"
+    "author": "格林兄弟",
+    "press": "人民文学出版社",
+    "year": 1994
   },
   {
     "name": "尘埃落定",
     "score": 8.4,
     "quote": "一个傻子的土司家族传奇",
     "numberOfComments": 32523,
-    "author": "阿来"
+    "author": "阿来",
+    "press": "人民文学出版社",
+    "year": 1998
   },
   {
     "name": "麦琪的礼物",
     "score": 8.6,
     "quote": "日常的奇迹",
     "numberOfComments": 31755,
-    "author": "[美] 欧·亨利"
+    "author": "[美] 欧·亨利",
+    "press": "上海社会科学院出版社",
+    "year": 2003
   },
   {
     "name": "那些回不去的年少时光",
     "score": 8.5,
     "quote": "所有你曾热爱却正在遗忘的人和事",
     "numberOfComments": 31232,
-    "author": "桐华"
+    "author": "桐华",
+    "press": "江苏文艺出版社",
+    "year": 2010
   },
   {
     "name": "金锁记",
     "score": 8.5,
     "quote": "曹七巧就像希克厉，一个扭曲的英雄",
     "numberOfComments": 31672,
-    "author": "张爱玲"
+    "author": "张爱玲",
+    "press": "哈尔滨出版社",
+    "year": 2005
   },
   {
     "name": "海贼王",
     "score": 9.5,
     "quote": "热血，梦想，希望",
     "numberOfComments": 27490,
-    "author": "尾田荣一郎"
+    "author": "尾田荣一郎",
+    "press": "浙江人民美术出版社",
+    "year": 2007
   },
   {
     "name": "历史深处的忧虑",
     "score": 9,
     "quote": "窥见美国社会的一扇窗",
     "numberOfComments": 29298,
-    "author": "林达"
+    "author": "林达",
+    "press": "生活·读书·新知三联书店",
+    "year": 1997
   },
   {
     "name": "房思琪的初恋乐园",
     "score": 9.2,
     "quote": "以血书写的文学",
     "numberOfComments": 28727,
-    "author": "林奕含"
+    "author": "林奕含",
+    "press": "北京联合出版公司",
+    "year": 2018
   },
   {
     "name": "城南旧事",
     "score": 8.9,
     "quote": "长亭外，古道边，芳草碧连天",
     "numberOfComments": 29157,
-    "author": "林海音 文"
+    "author": "林海音 文",
+    "press": "中国青年出版社",
+    "year": 2003
   },
   {
     "name": "鹿鼎记（全五册）",
     "score": 8.8,
     "quote": "武侠的解构，流氓的狂欢",
     "numberOfComments": 29313,
-    "author": "金庸"
+    "author": "金庸",
+    "press": "广州出版社 花城出版社",
+    "year": 2008
   },
   {
     "name": "大地之灯",
     "score": 8.2,
     "quote": "两代人的成长与救赎",
     "numberOfComments": 31564,
-    "author": "七堇年"
+    "author": "七堇年",
+    "press": "长江文艺出版社",
+    "year": 2007
   },
   {
     "name": "悲惨世界（上中下）",
     "score": 8.9,
     "quote": "现实主义与浪漫主义的至高杰作",
     "numberOfComments": 28725,
-    "author": "[法] 雨果"
+    "author": "[法] 雨果",
+    "press": "人民文学出版社",
+    "year": 1992
   },
   {
     "name": "史蒂夫·乔布斯传",
     "score": 8.7,
     "quote": "完美主义者的最高形态",
     "numberOfComments": 29296,
-    "author": "[美] 沃尔特·艾萨克森"
+    "author": "[美] 沃尔特·艾萨克森",
+    "press": "中信出版社",
+    "year": 2011
   },
   {
     "name": "我不喜欢这世界，我只喜欢你",
     "score": 8,
     "quote": "一想到能和你共度余生，我就对余生充满期待",
     "numberOfComments": 30173,
-    "author": "乔一"
+    "author": "乔一",
+    "press": "湖南少年儿童出版社",
+    "year": 2015
   },
   {
     "name": "球状闪电",
     "score": 8.7,
     "quote": "量子之外，没有真相",
     "numberOfComments": 29442,
-    "author": "刘慈欣"
+    "author": "刘慈欣",
+    "press": "四川科学技术出版社",
+    "year": 2005
   },
   {
     "name": "菊与刀",
     "score": 8.2,
     "quote": "复杂矛盾的日本民族",
     "numberOfComments": 31612,
-    "author": "（美）鲁思・本尼迪克特"
+    "author": "（美）鲁思・本尼迪克特",
+    "press": "商务印书馆",
+    "year": 1990
   },
   {
     "name": "东霓",
     "score": 8.1,
     "quote": "自毁而偏执的东霓",
     "numberOfComments": 31353,
-    "author": "笛安"
+    "author": "笛安",
+    "press": "长江文艺出版社",
+    "year": 2010
   },
   {
     "name": "长恨歌",
     "score": 8.2,
     "quote": "现代上海史诗",
     "numberOfComments": 31150,
-    "author": "王安忆"
+    "author": "王安忆",
+    "press": "南海出版公司",
+    "year": 2003
   },
   {
     "name": "你一定爱读的极简欧洲史",
     "score": 8.3,
     "quote": "欧洲，为什么老是抢第一？",
     "numberOfComments": 30333,
-    "author": "约翰·赫斯特（John Hirst）"
+    "author": "约翰·赫斯特（John Hirst）",
+    "press": "广西师范大学出版社",
+    "year": 2011
   },
   {
     "name": "看不见的城市",
     "score": 8.8,
     "quote": "每一座城市都只在想象中耸立，又在描述中坍圮",
     "numberOfComments": 27824,
-    "author": "[意大利]伊塔洛·卡尔维诺"
+    "author": "[意大利]伊塔洛·卡尔维诺",
+    "press": "译林出版社",
+    "year": 2006
   },
   {
     "name": "香水",
     "score": 8.5,
     "quote": "恋味癖谋杀案",
     "numberOfComments": 28675,
-    "author": "[德] 帕·聚斯金德"
+    "author": "[德] 帕·聚斯金德",
+    "press": "上海译文出版社",
+    "year": 2005
   },
   {
     "name": "橙",
     "score": 8.2,
     "quote": "定做一个刻着“不过如此”的章，盖在封面上",
     "numberOfComments": 29130,
-    "author": "安东尼"
+    "author": "安东尼",
+    "press": "长江文艺出版社",
+    "year": 2010
   },
   {
     "name": "一九八四·动物农场",
     "score": 9.3,
     "quote": "一个预言和一个寓言，令人窒息的政治恐怖",
     "numberOfComments": 25831,
-    "author": "[英] 乔治·奥威尔"
+    "author": "[英] 乔治·奥威尔",
+    "press": "上海译文出版社",
+    "year": 2003
   },
   {
     "name": "飞鸟集",
     "score": 8.8,
     "quote": "淡泊，超脱",
     "numberOfComments": 27264,
-    "author": "[印] 罗宾德拉纳德·泰戈尔"
+    "author": "[印] 罗宾德拉纳德·泰戈尔",
+    "press": "哈尔滨出版社",
+    "year": 2004
   },
   {
     "name": "查令十字街84号",
     "score": 8.3,
     "quote": "文艺青年的爱情地标",
     "numberOfComments": 28905,
-    "author": "[美] 海莲·汉芙"
+    "author": "[美] 海莲·汉芙",
+    "press": "译林出版社",
+    "year": 2005
   },
   {
     "name": "匆匆那年（上下）",
     "score": 8.3,
     "quote": "不悔梦归处 只恨太匆匆",
     "numberOfComments": 28436,
-    "author": "九夜茴"
+    "author": "九夜茴",
+    "press": "东方出版社",
+    "year": 2008
   },
   {
     "name": "往事并不如烟",
     "score": 8.6,
     "quote": "知识分子的命运浮沉",
     "numberOfComments": 27209,
-    "author": "章诒和"
+    "author": "章诒和",
+    "press": "人民文学出版社",
+    "year": 2004
   },
   {
     "name": "伊豆的舞女",
     "score": 8.2,
     "quote": "静美又残酷，无限柔软的川端",
     "numberOfComments": 28889,
-    "author": "[日] 川端康成"
+    "author": "[日] 川端康成",
+    "press": "广西师范大学出版社",
+    "year": 2002
   },
   {
     "name": "江城",
     "score": 9,
     "quote": "外国人的寻路中国",
     "numberOfComments": 25745,
-    "author": "[美] 彼得·海斯勒"
+    "author": "[美] 彼得·海斯勒",
+    "press": "上海译文出版社",
+    "year": 2012
   },
   {
     "name": "世界尽头与冷酷仙境",
     "score": 8.6,
     "quote": "交叉平行蒙太奇",
     "numberOfComments": 27326,
-    "author": "[日] 村上春树"
+    "author": "[日] 村上春树",
+    "press": "上海译文出版社",
+    "year": 2002
   },
   {
     "name": "把时间当作朋友",
     "score": 8.5,
     "quote": "反成功学的成功学",
     "numberOfComments": 27584,
-    "author": "李笑来"
+    "author": "李笑来",
+    "press": "电子工业出版社",
+    "year": 2009
   },
   {
     "name": "影响力",
     "score": 8.6,
     "quote": "营销防骗指南",
     "numberOfComments": 26822,
-    "author": "[美] 罗伯特·西奥迪尼"
+    "author": "[美] 罗伯特·西奥迪尼",
+    "press": "中国人民大学出版社",
+    "year": 2006
   },
   {
     "name": "富爸爸，穷爸爸",
     "score": 8.2,
     "quote": "人穷穷观念，人富钱生钱",
     "numberOfComments": 28024,
-    "author": "（美）罗伯特・T・清崎"
+    "author": "（美）罗伯特・T・清崎",
+    "press": "世界图书出版公司",
+    "year": 2000
   },
   {
     "name": "倚天屠龙记(共四册)",
     "score": 8.5,
     "quote": "不识张郎是张郎",
     "numberOfComments": 27058,
-    "author": "金庸"
+    "author": "金庸",
+    "press": "三联书店",
+    "year": 1999
   },
   {
     "name": "中国历代政治得失",
     "score": 9.1,
     "quote": "一部简明的“中国政治制度史”",
     "numberOfComments": 25075,
-    "author": "钱穆"
+    "author": "钱穆",
+    "press": "生活·读书·新知三联书店",
+    "year": 2001
   },
   {
     "name": "冰与火之歌（卷一）",
     "score": 9.3,
     "quote": "凛冬将至。无比宏大的世界观",
     "numberOfComments": 24430,
-    "author": "[美] 乔治·R. R. 马丁"
+    "author": "[美] 乔治·R. R. 马丁",
+    "press": "重庆出版社",
+    "year": 2005
   },
   {
     "name": "七夜雪",
     "score": 8.4,
     "quote": "抵不过时间",
     "numberOfComments": 26605,
-    "author": "沧月"
+    "author": "沧月",
+    "press": "北京十月文艺出版社",
+    "year": 2006
   },
   {
     "name": "那些年，我们一起追的女孩",
     "score": 8.2,
     "quote": "那些年错过的大雨",
     "numberOfComments": 27394,
-    "author": "九把刀"
+    "author": "九把刀",
+    "press": "花山文艺出版社",
+    "year": 2007
   },
   {
     "name": "ZOO",
     "score": 8.6,
     "quote": "噩梦中的一丝温度",
     "numberOfComments": 25955,
-    "author": "[日] 乙一"
+    "author": "[日] 乙一",
+    "press": "当代世界出版社",
+    "year": 2007
   },
   {
     "name": "蔷薇岛屿",
     "score": 8,
     "quote": "你们不会彼此遗忘。只会彼此消失",
     "numberOfComments": 28071,
-    "author": "安妮宝贝"
+    "author": "安妮宝贝",
+    "press": "作家出版社",
+    "year": 2002
   },
   {
     "name": "红与黑",
     "score": 8.2,
     "quote": "阴谋与爱情",
     "numberOfComments": 27573,
-    "author": "司汤达"
+    "author": "司汤达",
+    "press": "译林出版社",
+    "year": 1993
   },
   {
     "name": "朝花夕拾",
     "score": 8.7,
     "quote": "鲁迅的旧事重提",
     "numberOfComments": 25721,
-    "author": "鲁迅"
+    "author": "鲁迅",
+    "press": "人民文学出版社",
+    "year": 1972
   },
   {
     "name": "阿狸·梦之城堡",
     "score": 9,
     "quote": "治愈",
     "numberOfComments": 24456,
-    "author": "hans"
+    "author": "hans",
+    "press": "上海锦绣文章出版社",
+    "year": 2009
   },
   {
     "name": "时间简史",
     "score": 8.8,
     "quote": "霍金与上帝的战争",
     "numberOfComments": 24961,
-    "author": "[英] 史蒂芬·霍金"
+    "author": "[英] 史蒂芬·霍金",
+    "press": "湖南科学技术出版社",
+    "year": 2010
   },
   {
     "name": "天使与魔鬼",
     "score": 8.2,
     "quote": "科学与宗教的大乱斗",
     "numberOfComments": 26918,
-    "author": "[美] 丹.布朗"
+    "author": "[美] 丹.布朗",
+    "press": "人民文学出版社",
+    "year": 2005
   },
   {
     "name": "水浒传（全二册）",
     "score": 8.5,
     "quote": "风风火火闯九州",
     "numberOfComments": 25244,
-    "author": "[明] 施耐庵"
+    "author": "[明] 施耐庵",
+    "press": "人民文学出版社",
+    "year": 1997
   },
   {
     "name": "最初的爱情 最后的仪式",
     "score": 8,
     "quote": "别被封面骗了",
     "numberOfComments": 27209,
-    "author": "[英] 伊恩·麦克尤恩"
+    "author": "[英] 伊恩·麦克尤恩",
+    "press": "南京大学出版社",
+    "year": 2010
   },
   {
     "name": "陆犯焉识",
     "score": 8.8,
     "quote": "翻手为苍凉，覆手为繁华",
     "numberOfComments": 23955,
-    "author": "严歌苓"
+    "author": "严歌苓",
+    "press": "作家出版社",
+    "year": 2011
   },
   {
     "name": "杀死一只知更鸟",
     "score": 9.2,
     "quote": "有一种东西不能遵循从众原则，那就是——人的良心",
     "numberOfComments": 22870,
-    "author": "[美] 哈珀·李"
+    "author": "[美] 哈珀·李",
+    "press": "译林出版社",
+    "year": 2012
   },
   {
     "name": "国境以南 太阳以西",
     "score": 8.3,
     "quote": "灾星下出生的恋人们",
     "numberOfComments": 25732,
-    "author": "[日] 村上春树"
+    "author": "[日] 村上春树",
+    "press": "上海译文出版社",
+    "year": 2001
   },
   {
     "name": "佛祖在一号线",
     "score": 8.2,
     "quote": "嬉笑怒骂的常识分子",
     "numberOfComments": 25749,
-    "author": "李海鹏"
+    "author": "李海鹏",
+    "press": "文化艺术出版社",
+    "year": 2010
   },
   {
     "name": "最好的我们",
     "score": 8.8,
     "quote": "耿耿余淮",
     "numberOfComments": 23156,
-    "author": "八月长安"
+    "author": "八月长安",
+    "press": "湖南文艺出版社",
+    "year": 2013
   },
   {
     "name": "西游记（全二册）",
     "score": 8.8,
     "quote": "取经之路就在脚下",
     "numberOfComments": 23653,
-    "author": "吴承恩"
+    "author": "吴承恩",
+    "press": "人民文学出版社",
+    "year": 2004
   },
   {
     "name": "雷雨",
     "score": 8.5,
     "quote": "人的心都靠不住，我并不是说人坏，我就是恨人性太弱，太容易变了",
     "numberOfComments": 24620,
-    "author": "曹禺"
+    "author": "曹禺",
+    "press": "人民文学出版社",
+    "year": 1999
   },
   {
     "name": "生活在别处",
     "score": 8.4,
     "quote": "此处的生活唯有残酷",
     "numberOfComments": 25009,
-    "author": "[捷克] 米兰·昆德拉"
+    "author": "[捷克] 米兰·昆德拉",
+    "press": "上海译文出版社",
+    "year": 2004
   },
   {
     "name": "瓦尔登湖",
     "score": 8.4,
     "quote": "另一种生活",
     "numberOfComments": 24745,
-    "author": "[美] 梭罗"
+    "author": "[美] 梭罗",
+    "press": "上海译文出版社",
+    "year": 2006
   },
   {
     "name": "心是孤独的猎手",
     "score": 8.5,
     "quote": "镇上有两个哑巴，他们总是在一起。",
     "numberOfComments": 23952,
-    "author": "[美] 卡森·麦卡勒斯"
+    "author": "[美] 卡森·麦卡勒斯",
+    "press": "上海三联书店",
+    "year": 2005
   },
   {
     "name": "自控力",
     "score": 8.3,
     "quote": "要么瘦，要么死",
     "numberOfComments": 24661,
-    "author": "[美]  凯利·麦格尼格尔"
+    "author": "[美]  凯利·麦格尼格尔",
+    "press": "文化发展出版社(原印刷工业出版社)",
+    "year": 2012
   },
   {
     "name": "京华烟云",
     "score": 8.5,
     "quote": "林语堂的《红楼梦》",
     "numberOfComments": 23902,
-    "author": "林语堂"
+    "author": "林语堂",
+    "press": "陕西师范大学出版社",
+    "year": 2005
   },
   {
     "name": "设计中的设计",
     "score": 8.6,
     "quote": "日常生活的无限可能性",
     "numberOfComments": 23357,
-    "author": "[日] 原研哉"
+    "author": "[日] 原研哉",
+    "press": "山东人民出版社",
+    "year": 2006
   },
   {
     "name": "我执",
     "score": 8,
     "quote": "梁文道的私密日记",
     "numberOfComments": 25136,
-    "author": "梁文道"
+    "author": "梁文道",
+    "press": "广西师范大学出版社",
+    "year": 2010
   },
   {
     "name": "夏洛的网",
     "score": 8.5,
     "quote": "猪与蜘蛛",
     "numberOfComments": 23348,
-    "author": "[美] E.B.怀特"
+    "author": "[美] E.B.怀特",
+    "press": "上海译文出版社",
+    "year": 2004
   },
   {
     "name": "狂人日记",
     "score": 8.7,
     "quote": "中国现代文学史上第一篇真正的现代白话小说",
     "numberOfComments": 22913,
-    "author": "鲁迅"
+    "author": "鲁迅",
+    "press": "京华出版社",
+    "year": 2006
   },
   {
     "name": "变形记",
     "score": 8.4,
     "quote": "格里高里清早醒来发现自己变成了甲虫",
     "numberOfComments": 23796,
-    "author": "[奥] 卡夫卡"
+    "author": "[奥] 卡夫卡",
+    "press": "浙江文艺出版社",
+    "year": 2003
   },
   {
     "name": "偷书贼",
     "score": 8,
     "quote": "不能说偷，是窃，窃你懂吗",
     "numberOfComments": 24735,
-    "author": "[澳] 马克斯·苏萨克"
+    "author": "[澳] 马克斯·苏萨克",
+    "press": "南海出版公司",
+    "year": 2007
   },
   {
     "name": "没有色彩的多崎作和他的巡礼之年",
     "score": 8.2,
     "quote": "并不是一切都消失在了时间的长河里",
     "numberOfComments": 23881,
-    "author": "[日] 村上春树"
+    "author": "[日] 村上春树",
+    "press": "南海出版公司",
+    "year": 2013
   },
   {
     "name": "海底两万里",
     "score": 8.4,
     "quote": "你听说过鹦鹉螺号吗？",
     "numberOfComments": 23465,
-    "author": "[法国] 儒尔·凡尔纳"
+    "author": "[法国] 儒尔·凡尔纳",
+    "press": "译林出版社",
+    "year": 2002
   },
   {
     "name": "激荡三十年（上）",
     "score": 8.8,
     "quote": "这是一个最好的时代，也是一个最坏的时代",
     "numberOfComments": 21842,
-    "author": "吴晓波"
+    "author": "吴晓波",
+    "press": "中信出版社 浙江人民出版社",
+    "year": 2007
   },
   {
     "name": "文学回忆录（全2册）",
     "score": 9.2,
     "quote": "木心留给世界的礼物",
     "numberOfComments": 20660,
-    "author": "木心 口述"
+    "author": "木心 口述",
+    "press": "广西师范大学出版社",
+    "year": 2013
   },
   {
     "name": "人性的弱点全集",
     "score": 8.3,
     "quote": "西方世界最持久的人文畅销书",
     "numberOfComments": 22728,
-    "author": "[美] 戴尔·卡耐基"
+    "author": "[美] 戴尔·卡耐基",
+    "press": "中国发展出版社",
+    "year": 2008
   },
   {
     "name": "一句顶一万句",
     "score": 8.7,
     "quote": "一句胜过千年",
     "numberOfComments": 21604,
-    "author": "刘震云"
+    "author": "刘震云",
+    "press": "长江文艺出版社",
+    "year": 2009
   },
   {
     "name": "九州·缥缈录",
     "score": 8.8,
     "quote": "乱世的英雄史诗",
     "numberOfComments": 20841,
-    "author": "江南"
+    "author": "江南",
+    "press": "新世界出版社",
+    "year": 2005
   },
   {
     "name": "你今天真好看",
     "score": 8.7,
     "quote": "呆萌可爱的动物段子手",
     "numberOfComments": 21445,
-    "author": "[美]莉兹•克里莫"
+    "author": "[美]莉兹•克里莫",
+    "press": "雅众文化/天津人民出版社",
+    "year": 2015
   },
   {
     "name": "呼兰河传",
     "score": 8.9,
     "quote": "萧红的童年往事",
     "numberOfComments": 20916,
-    "author": "萧红"
+    "author": "萧红",
+    "press": "百花文艺出版社",
+    "year": 2005
   },
   {
     "name": "尼罗河上的惨案",
     "score": 8.7,
     "quote": "阿婆代表作之一",
     "numberOfComments": 21300,
-    "author": "[英] 阿加莎·克里斯蒂"
+    "author": "[英] 阿加莎·克里斯蒂",
+    "press": "人民文学出版社",
+    "year": 2006
   },
   {
     "name": "我与地坛",
     "score": 9,
     "quote": "这是你的罪孽与福祉",
     "numberOfComments": 19998,
-    "author": "史铁生"
+    "author": "史铁生",
+    "press": "春风文艺出版社",
+    "year": 2002
   },
   {
     "name": "人生",
     "score": 8.4,
     "quote": "如果你是高加林，你要如何选择？",
     "numberOfComments": 21332,
-    "author": "路遥"
+    "author": "路遥",
+    "press": "北京十月文艺出版社",
+    "year": 2009
   },
   {
     "name": "我的精神家园",
     "score": 9.1,
     "quote": "活过，爱过，写过",
     "numberOfComments": 19622,
-    "author": "王小波"
+    "author": "王小波",
+    "press": "文化艺术出版社",
+    "year": 1997
   },
   {
     "name": "占星术杀人魔法",
     "score": 8.3,
     "quote": "一桩占星术连续杀人案件",
     "numberOfComments": 21172,
-    "author": "[日] 岛田庄司"
+    "author": "[日] 岛田庄司",
+    "press": "新星出版社",
+    "year": 2008
   },
   {
     "name": "浪潮之巅",
     "score": 9.1,
     "quote": "了解IT领域的入门读物",
     "numberOfComments": 19331,
-    "author": "吴军"
+    "author": "吴军",
+    "press": "电子工业出版社",
+    "year": 2011
   },
   {
     "name": "浮生六记",
     "score": 8.9,
     "quote": "",
     "numberOfComments": 19999,
-    "author": "（清）沈复"
+    "author": "（清）沈复",
+    "press": "人民文学出版社",
+    "year": 1999
   },
   {
     "name": "舞！舞！舞！",
     "score": 8.3,
     "quote": "深入村上春树的心灵腹地",
     "numberOfComments": 21339,
-    "author": "[日] 村上春树"
+    "author": "[日] 村上春树",
+    "press": "上海译文出版社",
+    "year": 2002
   },
   {
     "name": "野火集",
     "score": 8.8,
     "quote": "中国人你为什么不生气？",
     "numberOfComments": 19967,
-    "author": "龙应台"
+    "author": "龙应台",
+    "press": "文汇出版社",
+    "year": 2005
   },
   {
     "name": "妻妾成群",
     "score": 8.2,
     "quote": "",
     "numberOfComments": 21563,
-    "author": "苏童"
+    "author": "苏童",
+    "press": "上海文艺出版社",
+    "year": 2004
   },
   {
     "name": "高效能人士的七个习惯（精华版）",
     "score": 8.2,
     "quote": "",
     "numberOfComments": 20813,
-    "author": "[美] 史蒂芬·柯维"
+    "author": "[美] 史蒂芬·柯维",
+    "press": "中国青年出版社",
+    "year": 2011
   },
   {
     "name": "海子的诗",
     "score": 8.9,
     "quote": "",
     "numberOfComments": 18657,
-    "author": "海子"
+    "author": "海子",
+    "press": "人民文学出版社",
+    "year": 1999
   },
   {
     "name": "项链",
     "score": 8.3,
     "quote": "",
     "numberOfComments": 20131,
-    "author": "[法] 莫泊桑"
+    "author": "[法] 莫泊桑",
+    "press": "河北教育出版社",
+    "year": 2005
   },
   {
     "name": "教父",
     "score": 9,
     "quote": "",
     "numberOfComments": 18292,
-    "author": "[美]马里奥·普佐"
+    "author": "[美]马里奥·普佐",
+    "press": "译林出版社",
+    "year": 1997
   },
   {
     "name": "娱乐至死",
     "score": 8.6,
     "quote": "",
     "numberOfComments": 19236,
-    "author": "[美] 尼尔·波兹曼"
+    "author": "[美] 尼尔·波兹曼",
+    "press": "广西师范大学出版社",
+    "year": 2011
   },
   {
     "name": "观念的水位",
     "score": 8.3,
     "quote": "",
     "numberOfComments": 19613,
-    "author": "刘瑜"
+    "author": "刘瑜",
+    "press": "浙江大学出版社",
+    "year": 2013
   },
   {
     "name": "父与子全集",
     "score": 9.1,
     "quote": "",
     "numberOfComments": 17531,
-    "author": "[德] 埃·奥·卜劳恩 绘"
+    "author": "[德] 埃·奥·卜劳恩 绘",
+    "press": "中国工人出版社",
+    "year": 2003
   },
   {
     "name": "罗杰疑案",
     "score": 8.9,
     "quote": "",
     "numberOfComments": 18002,
-    "author": "[英] 阿加莎·克里斯蒂"
+    "author": "[英] 阿加莎·克里斯蒂",
+    "press": "人民文学出版社",
+    "year": 2006
   },
   {
     "name": "中国大历史",
     "score": 8.3,
     "quote": "",
     "numberOfComments": 19691,
-    "author": "黄仁宇"
+    "author": "黄仁宇",
+    "press": "生活·读书·新知三联书店",
+    "year": 2007
   },
   {
     "name": "寻羊冒险记",
     "score": 8.1,
     "quote": "",
     "numberOfComments": 19966,
-    "author": "[日] 村上春树"
+    "author": "[日] 村上春树",
+    "press": "上海译文出版社",
+    "year": 2001
   },
   {
     "name": "带一本书去巴黎",
     "score": 8.5,
     "quote": "",
     "numberOfComments": 18915,
-    "author": "林达"
+    "author": "林达",
+    "press": "生活·读书·新知三联书店",
+    "year": 2002
   },
   {
     "name": "动物凶猛",
     "score": 8.3,
     "quote": "",
     "numberOfComments": 19678,
-    "author": "王朔"
+    "author": "王朔",
+    "press": "中国电影出版社",
+    "year": 2004
   },
   {
     "name": "子不语1",
     "score": 9,
     "quote": "",
     "numberOfComments": 17620,
-    "author": "夏达"
+    "author": "夏达",
+    "press": "新世纪出版社",
+    "year": 2009
   },
   {
     "name": "巨流河",
     "score": 8.7,
     "quote": "",
     "numberOfComments": 18495,
-    "author": "齐邦媛"
+    "author": "齐邦媛",
+    "press": "生活·读书·新知三联书店",
+    "year": 2010
   },
   {
     "name": "小姨多鹤",
     "score": 8.6,
     "quote": "",
     "numberOfComments": 18583,
-    "author": "严歌苓"
+    "author": "严歌苓",
+    "press": "作家出版社",
+    "year": 2008
   },
   {
     "name": "第一炉香",
     "score": 8.4,
     "quote": "",
     "numberOfComments": 19039,
-    "author": "张爱玲"
+    "author": "张爱玲",
+    "press": "花城出版社",
+    "year": 1997
   },
   {
     "name": "斯通纳",
     "score": 8.8,
     "quote": "",
     "numberOfComments": 17847,
-    "author": "[美] 约翰·威廉斯"
+    "author": "[美] 约翰·威廉斯",
+    "press": "世纪文景/上海人民出版社",
+    "year": 2016
   },
   {
     "name": "芳华",
     "score": 8.1,
     "quote": "",
     "numberOfComments": 19442,
-    "author": "严歌苓"
+    "author": "严歌苓",
+    "press": "人民文学出版社",
+    "year": 2017
   },
   {
     "name": "爱的艺术",
     "score": 8.8,
     "quote": "",
     "numberOfComments": 17726,
-    "author": "[美] 艾·弗洛姆"
+    "author": "[美] 艾·弗洛姆",
+    "press": "上海译文出版社",
+    "year": 2008
   },
   {
     "name": "退步集",
     "score": 8.1,
     "quote": "",
     "numberOfComments": 19397,
-    "author": "陈丹青"
+    "author": "陈丹青",
+    "press": "广西师范大学出版社",
+    "year": 2005
   },
   {
     "name": "人间词话",
     "score": 9,
     "quote": "",
     "numberOfComments": 17259,
-    "author": "王国维"
+    "author": "王国维",
+    "press": "上海古籍出版社",
+    "year": 1998
   },
   {
     "name": "未来简史",
     "score": 8.5,
     "quote": "",
     "numberOfComments": 18345,
-    "author": "[以色列] 尤瓦尔·赫拉利"
+    "author": "[以色列] 尤瓦尔·赫拉利",
+    "press": "中信出版社",
+    "year": 2017
   },
   {
     "name": "云中歌1",
     "score": 8.1,
     "quote": "",
     "numberOfComments": 19015,
-    "author": "桐华"
+    "author": "桐华",
+    "press": "作家出版社",
+    "year": 2007
   },
   {
     "name": "夹边沟记事",
     "score": 9.2,
     "quote": "",
     "numberOfComments": 16525,
-    "author": "杨显惠"
+    "author": "杨显惠",
+    "press": "花城出版社",
+    "year": 2008
   },
   {
     "name": "来不及说我爱你",
     "score": 8.1,
     "quote": "",
     "numberOfComments": 18841,
-    "author": "匪我思存"
+    "author": "匪我思存",
+    "press": "新世界出版社",
+    "year": 2006
   },
   {
     "name": "一千零一夜",
     "score": 8.6,
     "quote": "",
     "numberOfComments": 17678,
-    "author": "纳训"
+    "author": "纳训",
+    "press": "人民文学出版社",
+    "year": 2003
   },
   {
     "name": "相约星期二",
     "score": 8.4,
     "quote": "",
     "numberOfComments": 17903,
-    "author": "[美] 米奇·阿尔博姆"
+    "author": "[美] 米奇·阿尔博姆",
+    "press": "上海译文出版社",
+    "year": 2007
   },
   {
     "name": "可爱的洪水猛兽",
     "score": 8.1,
     "quote": "",
     "numberOfComments": 18786,
-    "author": "韩寒"
+    "author": "韩寒",
+    "press": "万卷出版公司",
+    "year": 2009
   },
   {
     "name": "白银时代",
     "score": 8.4,
     "quote": "",
     "numberOfComments": 17988,
-    "author": "王小波"
+    "author": "王小波",
+    "press": "花城出版社",
+    "year": 1997
   },
   {
     "name": "台北人",
     "score": 8.9,
     "quote": "",
     "numberOfComments": 16581,
-    "author": "白先勇"
+    "author": "白先勇",
+    "press": "广西师范大学出版社",
+    "year": 2010
   },
   {
     "name": "万水千山走遍",
     "score": 8.8,
     "quote": "",
     "numberOfComments": 16750,
-    "author": "三毛"
+    "author": "三毛",
+    "press": "哈尔滨出版社",
+    "year": 2003
   },
   {
     "name": "罗生门",
     "score": 8.7,
     "quote": "",
     "numberOfComments": 17241,
-    "author": "[日]芥川龙之介"
+    "author": "[日]芥川龙之介",
+    "press": "上海译文出版社",
+    "year": 2008
   },
   {
     "name": "面纱",
     "score": 8.7,
     "quote": "",
     "numberOfComments": 16938,
-    "author": "[英] W.萨默塞特·毛姆"
+    "author": "[英] W.萨默塞特·毛姆",
+    "press": "重庆出版社",
+    "year": 2012
   },
   {
     "name": "哈姆莱特",
     "score": 8.5,
     "quote": "",
     "numberOfComments": 17434,
-    "author": "[英] 莎士比亚"
+    "author": "[英] 莎士比亚",
+    "press": "人民文学出版社",
+    "year": 2001
   },
   {
     "name": "告白",
     "score": 8.6,
     "quote": "",
     "numberOfComments": 16969,
-    "author": "湊佳苗"
+    "author": "湊佳苗",
+    "press": "時報文化",
+    "year": 2009
   },
   {
     "name": "雨季不再来",
     "score": 8.7,
     "quote": "",
     "numberOfComments": 16905,
-    "author": "三毛"
+    "author": "三毛",
+    "press": "北京十月文艺出版社",
+    "year": 2007
   },
   {
     "name": "琅琊榜",
     "score": 8.6,
     "quote": "",
     "numberOfComments": 16602,
-    "author": "海宴"
+    "author": "海宴",
+    "press": "朝华出版社",
+    "year": 2007
   },
   {
     "name": "后宫·甄嬛传Ⅰ",
     "score": 8,
     "quote": "",
     "numberOfComments": 18148,
-    "author": "流潋紫"
+    "author": "流潋紫",
+    "press": "花山文艺出版社",
+    "year": 2007
   },
   {
     "name": "星空",
     "score": 9,
     "quote": "",
     "numberOfComments": 15868,
-    "author": "幾米"
+    "author": "幾米",
+    "press": "大塊文化",
+    "year": 2009
   },
   {
     "name": "朗读者",
     "score": 8.3,
     "quote": "",
     "numberOfComments": 17397,
-    "author": "[德] 本哈德·施林克"
+    "author": "[德] 本哈德·施林克",
+    "press": "译林出版社",
+    "year": 2009
   },
   {
     "name": "阿麦从军：全新修订版",
     "score": 8.9,
     "quote": "",
     "numberOfComments": 15127,
-    "author": "鲜橙"
+    "author": "鲜橙",
+    "press": "作家出版社",
+    "year": 2017
   },
   {
     "name": "雾都孤儿",
     "score": 8.1,
     "quote": "",
     "numberOfComments": 17918,
-    "author": "[英]狄更斯"
+    "author": "[英]狄更斯",
+    "press": "上海译文出版社",
+    "year": 1991
   },
   {
     "name": "枪炮、病菌与钢铁",
     "score": 8.8,
     "quote": "",
     "numberOfComments": 16177,
-    "author": "[美] 贾雷德·戴蒙德"
+    "author": "[美] 贾雷德·戴蒙德",
+    "press": "上海世纪出版集团",
+    "year": 2006
   },
   {
     "name": "红拂夜奔",
     "score": 8.6,
     "quote": "",
     "numberOfComments": 16497,
-    "author": "王小波"
+    "author": "王小波",
+    "press": "江苏文艺出版社",
+    "year": 2005
   },
   {
     "name": "深夜食堂 01",
     "score": 9.1,
     "quote": "",
     "numberOfComments": 15454,
-    "author": "[日] 安倍夜郎"
+    "author": "[日] 安倍夜郎",
+    "press": "湖南文艺出版社",
+    "year": 2013
   }
 ]
